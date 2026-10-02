@@ -1,0 +1,7 @@
+# Install backend dependencies with:
+#   pip install -r backend/requirements.txt
+#
+# For training scripts, also install:
+#   pip install imodels shap
+#
+# See README.md for full setup instructions.
